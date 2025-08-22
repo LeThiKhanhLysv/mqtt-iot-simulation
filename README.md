@@ -17,7 +17,6 @@
 - [Câu hỏi thường gặp (FAQ)](#câu-hỏi-thường-gặp-faq)
 - [Ghi chú nộp bài](#ghi-chú-nộp-bài)
 - [Thông tin](#thông-tin)
-- [Giấy phép (tùy chọn)](#giấy-phép-tùy-chọn)
 
 ---
 
@@ -170,5 +169,3 @@ A: Cùng thư mục với code, tên `sensor_data.db` (có thể đổi trong `s
 - **Đề tài**: Mô phỏng mạng IoT sử dụng giao thức MQTT
 
 ---
-- Nếu không yêu cầu: có thể bỏ trống phần này.
-- Nếu muốn công khai: tham khảo giấy phép **MIT**.
