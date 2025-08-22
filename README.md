@@ -15,7 +15,6 @@
 - [Kết quả kỳ vọng](#kết-quả-kỳ-vọng)
 - [Khắc phục lỗi thường gặp](#khắc-phục-lỗi-thường-gặp)
 - [Câu hỏi thường gặp (FAQ)](#câu-hỏi-thường-gặp-faq)
-- [Ghi chú nộp bài](#ghi-chú-nộp-bài)
 - [Thông tin](#thông-tin)
 
 ---
